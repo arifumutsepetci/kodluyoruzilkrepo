@@ -6,3 +6,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 Öncelikle projeyi clonelayın.
 
+```
+git clone https://github.com/arifumutsepetci/kodluyoruzilkrepo.git
+```
